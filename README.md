@@ -4,4 +4,4 @@ This is a front-end project created using Javascript, Bootstrap 4, CSS, and HTML
 
 # Usage
 
-[Pretty Bad Greeting Cards](dorseymp.github.io)
+[Pretty Bad Greeting Cards](https://dorseymp.github.io)
